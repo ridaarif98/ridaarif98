@@ -14,4 +14,4 @@ fascinated</b>
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridaarif98&show_icons=true&theme=dark&locale=en" alt="rida-arif" width="410" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridaarif98&show_icons=true&locale=en&layout=compact" alt="rida-arif" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridaarif98&show_icons=true&theme=dark&locale=en&layout=compact" alt="rida-arif" /></p>
