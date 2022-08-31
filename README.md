@@ -33,9 +33,14 @@ fascinated</b>
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rails)
 
 <hr>
 <br>
+
+🤓 **Interested:** <br>
+ReactRuby Rails
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rails)
